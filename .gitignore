@@ -41,3 +41,4 @@ Thumbs.db
 # IDE folders
 .vscode/
 .idea/
+node_modules/
